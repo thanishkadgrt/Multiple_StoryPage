@@ -1,0 +1,34 @@
+body{
+    background: url("https://cdn.wallpapersafari.com/44/36/1QL4aI.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    height:250px;
+    width:250px;
+    border-radius: 70%;
+    margin-top: 10px;
+    box-shadow: 10px 10px 10px lightgoldenrodyellow;
+    opacity: 1.5;
+
+}
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+h3{
+    text-align:center;
+    font-size:xx-large;
+    font-family: 'Courier New','Courier New', Courier, monospace;
+    color: rgb(225, 252, 252);
+}
+h1{
+    margin-bottom: 100px;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 5px 5px brown;
+}
+img:hover{
+    opacity: 0.81;
+}

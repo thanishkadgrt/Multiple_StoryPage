@@ -1,0 +1,38 @@
+body{
+    background: url("https://wallpaperaccess.com/full/4600314.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    text-align:justify;
+    text-shadow: 5px 5px 3px black;
+    color: white;
+}
+div{
+    margin: auto;
+    width: max-content;
+}
+.image1{
+    height: 500px;
+    width: max-content;
+    padding: 8px;
+    border: 5px solid lightgray;
+}
+.image2{
+    height: 350px;
+}
+h1{
+    color: white;
+}
+hr{
+    
+    background: white;
+}
+
+h3{
+    color: white;
+}
+h2{
+    color: black;
+}
